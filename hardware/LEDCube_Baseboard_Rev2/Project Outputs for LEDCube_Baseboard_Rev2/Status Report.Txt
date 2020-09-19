@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LEDCube_Baseboard_Rev2.PrjPCB]
+   Generated File[Baseboard-RoundHoles.TXT]
+   Generated File[Baseboard-SlotHoles.TXT]
+   Generated File[Baseboard.LDP]
+   Generated File[Baseboard.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:44:50 PM On 8/06/2020

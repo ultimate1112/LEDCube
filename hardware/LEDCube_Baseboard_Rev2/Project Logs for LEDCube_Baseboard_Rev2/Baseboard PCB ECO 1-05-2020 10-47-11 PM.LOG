@@ -1,0 +1,318 @@
+Added Component: Designator=H31(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H32(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H33(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H34(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H35(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H36(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H37(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H38(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H39(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H40(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H41(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H42(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H43(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H44(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H45(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H46(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H47(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H48(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H49(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H50(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H51(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H52(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H53(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H54(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H55(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H56(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H57(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H58(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H59(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H60(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H104(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H105(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H106(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H114(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H115(1x5-row)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H116(1x5-row)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH101_1 Pin=H104-1
+Added Pin To Net: NetName=NetH101_1 Pin=H104-2
+Added Pin To Net: NetName=NetH101_1 Pin=H104-3
+Added Pin To Net: NetName=NetH101_1 Pin=H104-4
+Added Pin To Net: NetName=NetH101_1 Pin=H104-5
+Added Pin To Net: NetName=NetH101_1 Pin=H105-1
+Added Pin To Net: NetName=NetH101_1 Pin=H105-2
+Added Pin To Net: NetName=NetH101_1 Pin=H105-3
+Added Pin To Net: NetName=NetH101_1 Pin=H105-4
+Added Pin To Net: NetName=NetH101_1 Pin=H105-5
+Added Pin To Net: NetName=NetH101_1 Pin=H106-1
+Added Pin To Net: NetName=NetH101_1 Pin=H106-2
+Added Pin To Net: NetName=NetH101_1 Pin=H106-3
+Added Pin To Net: NetName=NetH101_1 Pin=H106-4
+Added Pin To Net: NetName=NetH101_1 Pin=H106-5
+Added Pin To Net: NetName=NetH111_1 Pin=H114-1
+Added Pin To Net: NetName=NetH111_1 Pin=H114-2
+Added Pin To Net: NetName=NetH111_1 Pin=H114-3
+Added Pin To Net: NetName=NetH111_1 Pin=H114-4
+Added Pin To Net: NetName=NetH111_1 Pin=H114-5
+Added Pin To Net: NetName=NetH111_1 Pin=H115-1
+Added Pin To Net: NetName=NetH111_1 Pin=H115-2
+Added Pin To Net: NetName=NetH111_1 Pin=H115-3
+Added Pin To Net: NetName=NetH111_1 Pin=H115-4
+Added Pin To Net: NetName=NetH111_1 Pin=H115-5
+Added Pin To Net: NetName=NetH111_1 Pin=H116-1
+Added Pin To Net: NetName=NetH111_1 Pin=H116-2
+Added Pin To Net: NetName=NetH111_1 Pin=H116-3
+Added Pin To Net: NetName=NetH111_1 Pin=H116-4
+Added Pin To Net: NetName=NetH111_1 Pin=H116-5
+Added Pin To Net: NetName=NetH31_1 Pin=H31-1
+Added Pin To Net: NetName=NetH31_1 Pin=H31-2
+Added Pin To Net: NetName=NetH31_1 Pin=H31-3
+Added Pin To Net: NetName=NetH31_1 Pin=H31-4
+Added Pin To Net: NetName=NetH31_1 Pin=H31-5
+Added Net: Name=NetH31_1
+Added Pin To Net: NetName=NetH32_1 Pin=H32-1
+Added Pin To Net: NetName=NetH32_1 Pin=H32-2
+Added Pin To Net: NetName=NetH32_1 Pin=H32-3
+Added Pin To Net: NetName=NetH32_1 Pin=H32-4
+Added Pin To Net: NetName=NetH32_1 Pin=H32-5
+Added Net: Name=NetH32_1
+Added Pin To Net: NetName=NetH33_1 Pin=H33-1
+Added Pin To Net: NetName=NetH33_1 Pin=H33-2
+Added Pin To Net: NetName=NetH33_1 Pin=H33-3
+Added Pin To Net: NetName=NetH33_1 Pin=H33-4
+Added Pin To Net: NetName=NetH33_1 Pin=H33-5
+Added Net: Name=NetH33_1
+Added Pin To Net: NetName=NetH34_1 Pin=H34-1
+Added Pin To Net: NetName=NetH34_1 Pin=H34-2
+Added Pin To Net: NetName=NetH34_1 Pin=H34-3
+Added Pin To Net: NetName=NetH34_1 Pin=H34-4
+Added Pin To Net: NetName=NetH34_1 Pin=H34-5
+Added Net: Name=NetH34_1
+Added Pin To Net: NetName=NetH35_1 Pin=H35-1
+Added Pin To Net: NetName=NetH35_1 Pin=H35-2
+Added Pin To Net: NetName=NetH35_1 Pin=H35-3
+Added Pin To Net: NetName=NetH35_1 Pin=H35-4
+Added Pin To Net: NetName=NetH35_1 Pin=H35-5
+Added Net: Name=NetH35_1
+Added Pin To Net: NetName=NetH36_1 Pin=H36-1
+Added Pin To Net: NetName=NetH36_1 Pin=H36-2
+Added Pin To Net: NetName=NetH36_1 Pin=H36-3
+Added Pin To Net: NetName=NetH36_1 Pin=H36-4
+Added Pin To Net: NetName=NetH36_1 Pin=H36-5
+Added Net: Name=NetH36_1
+Added Pin To Net: NetName=NetH37_1 Pin=H37-1
+Added Pin To Net: NetName=NetH37_1 Pin=H37-2
+Added Pin To Net: NetName=NetH37_1 Pin=H37-3
+Added Pin To Net: NetName=NetH37_1 Pin=H37-4
+Added Pin To Net: NetName=NetH37_1 Pin=H37-5
+Added Net: Name=NetH37_1
+Added Pin To Net: NetName=NetH38_1 Pin=H38-1
+Added Pin To Net: NetName=NetH38_1 Pin=H38-2
+Added Pin To Net: NetName=NetH38_1 Pin=H38-3
+Added Pin To Net: NetName=NetH38_1 Pin=H38-4
+Added Pin To Net: NetName=NetH38_1 Pin=H38-5
+Added Net: Name=NetH38_1
+Added Pin To Net: NetName=NetH39_1 Pin=H39-1
+Added Pin To Net: NetName=NetH39_1 Pin=H39-2
+Added Pin To Net: NetName=NetH39_1 Pin=H39-3
+Added Pin To Net: NetName=NetH39_1 Pin=H39-4
+Added Pin To Net: NetName=NetH39_1 Pin=H39-5
+Added Net: Name=NetH39_1
+Added Pin To Net: NetName=NetH40_1 Pin=H40-1
+Added Pin To Net: NetName=NetH40_1 Pin=H40-2
+Added Pin To Net: NetName=NetH40_1 Pin=H40-3
+Added Pin To Net: NetName=NetH40_1 Pin=H40-4
+Added Pin To Net: NetName=NetH40_1 Pin=H40-5
+Added Net: Name=NetH40_1
+Added Pin To Net: NetName=NetH41_1 Pin=H41-1
+Added Pin To Net: NetName=NetH41_1 Pin=H41-2
+Added Pin To Net: NetName=NetH41_1 Pin=H41-3
+Added Pin To Net: NetName=NetH41_1 Pin=H41-4
+Added Pin To Net: NetName=NetH41_1 Pin=H41-5
+Added Net: Name=NetH41_1
+Added Pin To Net: NetName=NetH42_1 Pin=H42-1
+Added Pin To Net: NetName=NetH42_1 Pin=H42-2
+Added Pin To Net: NetName=NetH42_1 Pin=H42-3
+Added Pin To Net: NetName=NetH42_1 Pin=H42-4
+Added Pin To Net: NetName=NetH42_1 Pin=H42-5
+Added Net: Name=NetH42_1
+Added Pin To Net: NetName=NetH43_1 Pin=H43-1
+Added Pin To Net: NetName=NetH43_1 Pin=H43-2
+Added Pin To Net: NetName=NetH43_1 Pin=H43-3
+Added Pin To Net: NetName=NetH43_1 Pin=H43-4
+Added Pin To Net: NetName=NetH43_1 Pin=H43-5
+Added Net: Name=NetH43_1
+Added Pin To Net: NetName=NetH44_1 Pin=H44-1
+Added Pin To Net: NetName=NetH44_1 Pin=H44-2
+Added Pin To Net: NetName=NetH44_1 Pin=H44-3
+Added Pin To Net: NetName=NetH44_1 Pin=H44-4
+Added Pin To Net: NetName=NetH44_1 Pin=H44-5
+Added Net: Name=NetH44_1
+Added Pin To Net: NetName=NetH45_1 Pin=H45-1
+Added Pin To Net: NetName=NetH45_1 Pin=H45-2
+Added Pin To Net: NetName=NetH45_1 Pin=H45-3
+Added Pin To Net: NetName=NetH45_1 Pin=H45-4
+Added Pin To Net: NetName=NetH45_1 Pin=H45-5
+Added Net: Name=NetH45_1
+Added Pin To Net: NetName=NetH46_1 Pin=H46-1
+Added Pin To Net: NetName=NetH46_1 Pin=H46-2
+Added Pin To Net: NetName=NetH46_1 Pin=H46-3
+Added Pin To Net: NetName=NetH46_1 Pin=H46-4
+Added Pin To Net: NetName=NetH46_1 Pin=H46-5
+Added Net: Name=NetH46_1
+Added Pin To Net: NetName=NetH47_1 Pin=H47-1
+Added Pin To Net: NetName=NetH47_1 Pin=H47-2
+Added Pin To Net: NetName=NetH47_1 Pin=H47-3
+Added Pin To Net: NetName=NetH47_1 Pin=H47-4
+Added Pin To Net: NetName=NetH47_1 Pin=H47-5
+Added Net: Name=NetH47_1
+Added Pin To Net: NetName=NetH48_1 Pin=H48-1
+Added Pin To Net: NetName=NetH48_1 Pin=H48-2
+Added Pin To Net: NetName=NetH48_1 Pin=H48-3
+Added Pin To Net: NetName=NetH48_1 Pin=H48-4
+Added Pin To Net: NetName=NetH48_1 Pin=H48-5
+Added Net: Name=NetH48_1
+Added Pin To Net: NetName=NetH49_1 Pin=H49-1
+Added Pin To Net: NetName=NetH49_1 Pin=H49-2
+Added Pin To Net: NetName=NetH49_1 Pin=H49-3
+Added Pin To Net: NetName=NetH49_1 Pin=H49-4
+Added Pin To Net: NetName=NetH49_1 Pin=H49-5
+Added Net: Name=NetH49_1
+Added Pin To Net: NetName=NetH50_1 Pin=H50-1
+Added Pin To Net: NetName=NetH50_1 Pin=H50-2
+Added Pin To Net: NetName=NetH50_1 Pin=H50-3
+Added Pin To Net: NetName=NetH50_1 Pin=H50-4
+Added Pin To Net: NetName=NetH50_1 Pin=H50-5
+Added Net: Name=NetH50_1
+Added Pin To Net: NetName=NetH51_1 Pin=H51-1
+Added Pin To Net: NetName=NetH51_1 Pin=H51-2
+Added Pin To Net: NetName=NetH51_1 Pin=H51-3
+Added Pin To Net: NetName=NetH51_1 Pin=H51-4
+Added Pin To Net: NetName=NetH51_1 Pin=H51-5
+Added Net: Name=NetH51_1
+Added Pin To Net: NetName=NetH52_1 Pin=H52-1
+Added Pin To Net: NetName=NetH52_1 Pin=H52-2
+Added Pin To Net: NetName=NetH52_1 Pin=H52-3
+Added Pin To Net: NetName=NetH52_1 Pin=H52-4
+Added Pin To Net: NetName=NetH52_1 Pin=H52-5
+Added Net: Name=NetH52_1
+Added Pin To Net: NetName=NetH53_1 Pin=H53-1
+Added Pin To Net: NetName=NetH53_1 Pin=H53-2
+Added Pin To Net: NetName=NetH53_1 Pin=H53-3
+Added Pin To Net: NetName=NetH53_1 Pin=H53-4
+Added Pin To Net: NetName=NetH53_1 Pin=H53-5
+Added Net: Name=NetH53_1
+Added Pin To Net: NetName=NetH54_1 Pin=H54-1
+Added Pin To Net: NetName=NetH54_1 Pin=H54-2
+Added Pin To Net: NetName=NetH54_1 Pin=H54-3
+Added Pin To Net: NetName=NetH54_1 Pin=H54-4
+Added Pin To Net: NetName=NetH54_1 Pin=H54-5
+Added Net: Name=NetH54_1
+Added Pin To Net: NetName=NetH55_1 Pin=H55-1
+Added Pin To Net: NetName=NetH55_1 Pin=H55-2
+Added Pin To Net: NetName=NetH55_1 Pin=H55-3
+Added Pin To Net: NetName=NetH55_1 Pin=H55-4
+Added Pin To Net: NetName=NetH55_1 Pin=H55-5
+Added Net: Name=NetH55_1
+Added Pin To Net: NetName=NetH56_1 Pin=H56-1
+Added Pin To Net: NetName=NetH56_1 Pin=H56-2
+Added Pin To Net: NetName=NetH56_1 Pin=H56-3
+Added Pin To Net: NetName=NetH56_1 Pin=H56-4
+Added Pin To Net: NetName=NetH56_1 Pin=H56-5
+Added Net: Name=NetH56_1
+Added Pin To Net: NetName=NetH57_1 Pin=H57-1
+Added Pin To Net: NetName=NetH57_1 Pin=H57-2
+Added Pin To Net: NetName=NetH57_1 Pin=H57-3
+Added Pin To Net: NetName=NetH57_1 Pin=H57-4
+Added Pin To Net: NetName=NetH57_1 Pin=H57-5
+Added Net: Name=NetH57_1
+Added Pin To Net: NetName=NetH58_1 Pin=H58-1
+Added Pin To Net: NetName=NetH58_1 Pin=H58-2
+Added Pin To Net: NetName=NetH58_1 Pin=H58-3
+Added Pin To Net: NetName=NetH58_1 Pin=H58-4
+Added Pin To Net: NetName=NetH58_1 Pin=H58-5
+Added Net: Name=NetH58_1
+Added Pin To Net: NetName=NetH59_1 Pin=H59-1
+Added Pin To Net: NetName=NetH59_1 Pin=H59-2
+Added Pin To Net: NetName=NetH59_1 Pin=H59-3
+Added Pin To Net: NetName=NetH59_1 Pin=H59-4
+Added Pin To Net: NetName=NetH59_1 Pin=H59-5
+Added Net: Name=NetH59_1
+Added Pin To Net: NetName=NetH60_1 Pin=H60-1
+Added Pin To Net: NetName=NetH60_1 Pin=H60-2
+Added Pin To Net: NetName=NetH60_1 Pin=H60-3
+Added Pin To Net: NetName=NetH60_1 Pin=H60-4
+Added Pin To Net: NetName=NetH60_1 Pin=H60-5
+Added Net: Name=NetH60_1
+Added Member To Class: ClassName=Baseboard Member=Component H31 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H32 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H33 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H34 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H35 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H36 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H37 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H38 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H39 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H40 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H41 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H42 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H43 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H44 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H45 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H46 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H47 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H48 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H49 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H50 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H51 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H52 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H53 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H54 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H55 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H56 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H57 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H58 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H59 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H60 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H104 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H105 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H106 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H114 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H115 1x5-row
+Added Member To Class: ClassName=Baseboard Member=Component H116 1x5-row

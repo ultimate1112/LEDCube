@@ -1,0 +1,8 @@
+Added Component: Designator=H23(1x5-row)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetH23_1 Pin=H23-1
+Added Pin To Net: NetName=NetH23_1 Pin=H23-2
+Added Pin To Net: NetName=NetH23_1 Pin=H23-3
+Added Pin To Net: NetName=NetH23_1 Pin=H23-4
+Added Pin To Net: NetName=NetH23_1 Pin=H23-5
+Added Member To Class: ClassName=Baseboard Member=Component H23 1x5-row
