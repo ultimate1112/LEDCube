@@ -1,0 +1,375 @@
+Change Component Footprint: Designator=C1 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C2 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C5 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C6 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C7 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C8 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C9 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C10 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C11 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C12 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C13 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C14 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C15 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C16 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C17 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C18 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C19 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C20 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C21 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C22 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C23 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C24 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=C25 Old Footprint=C0805 New Footprint=C0603
+Change Component Comment : Designator=D1 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D2 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D3 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D4 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D5 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D6 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D7 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D8 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D9 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D10 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D11 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D12 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D13 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D14 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D15 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D16 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D17 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D18 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D19 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D20 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D21 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D22 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D23 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D24 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=D25 Old Comment=2659 New Comment=WS2812B-Mini
+Change Component Comment : Designator=C1 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C2 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C3 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C4 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C5 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C6 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C7 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C8 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C9 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C10 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C11 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C12 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C13 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C14 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C15 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C16 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C17 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C18 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C19 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C20 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C21 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C22 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C23 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C24 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Comment : Designator=C25 Old Comment=CAP New Comment=CAP0603_100nF_X7R
+Change Component Description : Designator=C1 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C2 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C3 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C4 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C5 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C6 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C7 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C8 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C9 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C10 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C11 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C12 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C13 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C14 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C15 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C16 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C17 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C18 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C19 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C20 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C21 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C22 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C23 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C24 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=C25 Old Description=Capacitor New Description=CAP0603 100nF X5R/X7R 25V
+Change Component Description : Designator=D1 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D2 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D3 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D4 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D5 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D6 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D7 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D8 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D9 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D10 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D11 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D12 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D13 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D14 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D15 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D16 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D17 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D18 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D19 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D20 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D21 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D22 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D23 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D24 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change Component Description : Designator=D25 Old Description=WS2812B-3535 New Description=WS2812B-Mini 35x35mm
+Change component parameters: Designator = "C1"; Footprint = "C0603"; UniqueID = "\WTJTUIKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "C0603"; UniqueID = "\AUCSOEGS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "C0603"; UniqueID = "\BCACNBRP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "C0603"; UniqueID = "\NPJXWGYX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "C0603"; UniqueID = "\KROODHNC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "C0603"; UniqueID = "\KGWEJDTO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7"; Footprint = "C0603"; UniqueID = "\KVGABKMH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8"; Footprint = "C0603"; UniqueID = "\GAGXDEOE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9"; Footprint = "C0603"; UniqueID = "\FFCMAAYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10"; Footprint = "C0603"; UniqueID = "\RWJMBVCS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11"; Footprint = "C0603"; UniqueID = "\GXPMITNK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12"; Footprint = "C0603"; UniqueID = "\TXNQTJGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13"; Footprint = "C0603"; UniqueID = "\JEAWWFRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14"; Footprint = "C0603"; UniqueID = "\SYPEWADR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C15"; Footprint = "C0603"; UniqueID = "\MYXXMUEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C16"; Footprint = "C0603"; UniqueID = "\NGGHCKLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C17"; Footprint = "C0603"; UniqueID = "\DVBLEFQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C18"; Footprint = "C0603"; UniqueID = "\IOABUFPK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C19"; Footprint = "C0603"; UniqueID = "\CXTQNONY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20"; Footprint = "C0603"; UniqueID = "\QARDVHSA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C21"; Footprint = "C0603"; UniqueID = "\JJXDVBWW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C22"; Footprint = "C0603"; UniqueID = "\HSOWRSJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C23"; Footprint = "C0603"; UniqueID = "\JUAWPNQQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C24"; Footprint = "C0603"; UniqueID = "\PRWXLNJL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C25"; Footprint = "C0603"; UniqueID = "\JMKXWUWJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C1590"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "CL10B104KA8NNNC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "WS2812B-3535"; UniqueID = "\FKTMKTAS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "WS2812B-3535"; UniqueID = "\THJABAYW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3"; Footprint = "WS2812B-3535"; UniqueID = "\IHBFQVLE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4"; Footprint = "WS2812B-3535"; UniqueID = "\JUPOUGHF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5"; Footprint = "WS2812B-3535"; UniqueID = "\SUAQWLRU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6"; Footprint = "WS2812B-3535"; UniqueID = "\YNFISQOP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7"; Footprint = "WS2812B-3535"; UniqueID = "\XWIGPBNA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8"; Footprint = "WS2812B-3535"; UniqueID = "\DPFTJGIQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9"; Footprint = "WS2812B-3535"; UniqueID = "\CAJPEGTV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10"; Footprint = "WS2812B-3535"; UniqueID = "\DKLWRBCW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D11"; Footprint = "WS2812B-3535"; UniqueID = "\LXELRTPM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D12"; Footprint = "WS2812B-3535"; UniqueID = "\LSKKLVBT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D13"; Footprint = "WS2812B-3535"; UniqueID = "\PWCGOHIK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D14"; Footprint = "WS2812B-3535"; UniqueID = "\PSFXKCEB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D15"; Footprint = "WS2812B-3535"; UniqueID = "\AFDLLVCI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D16"; Footprint = "WS2812B-3535"; UniqueID = "\IFLSYOFL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D17"; Footprint = "WS2812B-3535"; UniqueID = "\LUBKSCQN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D18"; Footprint = "WS2812B-3535"; UniqueID = "\PGPLFDTD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D19"; Footprint = "WS2812B-3535"; UniqueID = "\FSBTHDNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D20"; Footprint = "WS2812B-3535"; UniqueID = "\MFKKRUMG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D21"; Footprint = "WS2812B-3535"; UniqueID = "\EKBHNTHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D22"; Footprint = "WS2812B-3535"; UniqueID = "\UNWRJRDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D23"; Footprint = "WS2812B-3535"; UniqueID = "\FEHUFXST"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D24"; Footprint = "WS2812B-3535"; UniqueID = "\GUFADDML"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D25"; Footprint = "WS2812B-3535"; UniqueID = "\DYRVCECW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C114583"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Worldsemi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "WS2812B-Mini"; VariantName = "[No Variations]"

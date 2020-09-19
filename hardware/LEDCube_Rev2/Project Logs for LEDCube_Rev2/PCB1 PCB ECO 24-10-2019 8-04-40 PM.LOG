@@ -1,0 +1,48 @@
+Added Component: Designator=H1(M3HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H2(M3HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H3(M3HOLE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=H4(M3HOLE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=GND Pin=H1-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=OUT Pin=H2-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=IN Pin=H3-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Pin To Net: NetName=+5 Pin=H4-0
+Added Member To Class: ClassName=Layer Member=Component H1 Hole
+Added Member To Class: ClassName=Layer Member=Component H2 Hole
+Added Member To Class: ClassName=Layer Member=Component H3 Hole
+Added Member To Class: ClassName=Layer Member=Component H4 Hole

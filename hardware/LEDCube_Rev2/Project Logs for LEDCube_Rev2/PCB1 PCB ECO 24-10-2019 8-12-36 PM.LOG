@@ -1,0 +1,12 @@
+Added Component: Designator=H1(M3HOLE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Pin To Net: NetName=IN Pin=H1-0
+Added Member To Class: ClassName=Layer Member=Component H1 Hole
